@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">mDNS Finder</string>
+    <string-array name="spin_type_items">
+        <item>Regular</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="spin_service_items">
+        <item>http</item>
+        <item>ipp</item>
+        <item>afpovertcp</item>
+        <item>smb</item>
+        <item>ssh</item>
+        <item>hap</item>
+        <item>device-info</item>
+    </string-array>
+    <string-array name="spin_protocol_items">
+        <item>tcp</item>
+        <item>udp</item>
+    </string-array>
+    <string name="btn_start_discovery">Discovery Start</string>
+    <string name="btn_stop_discovery">Discovery Stop</string>
+    <string name="txt_type_title">Type</string>
+    <string name="txt_protocol_title">Protocol</string>
+    <string name="txt_empty_message">None found</string>
+    <string name="btn_resolve">Detail</string>
+    <string name="toast_message1">Now Resolving</string>
+    <string name="toast_message2">Resolving Failed</string>
+    <string name="toast_message3">This device is not supported.</string>
+    <string name="dlg_close">Close</string>
+    <string name="dlg_info_message">Depending on your smartphone model, you may not be able to search correctly.</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mDNS Finder</string>
+    <string-array name="spin_type_items">
+        <item>通常</item>
+        <item>カスタム</item>
+    </string-array>
+    <string name="btn_start_discovery">検索開始</string>
+    <string name="btn_stop_discovery">検索停止</string>
+    <string name="btn_resolve">詳細</string>
+    <string name="txt_empty_message">一件も見つかっていません</string>
+    <string name="toast_message1">すでに接続中です</string>
+    <string name="toast_message2">接続に失敗しました</string>
+    <string name="toast_message3">このデバイスではサポートされていません</string>
+    <string name="dlg_close">閉じる</string>
+    <string name="dlg_info_message">スマートフォンの機種によっては、正しく検索できない場合があります。</string>
+</resources>
